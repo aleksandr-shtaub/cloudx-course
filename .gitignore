@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.direnv/
+.envrc
+.python-version
+.venv
+.vscode/
+.jj/
+var/
+dist/
+*.egg-info/
